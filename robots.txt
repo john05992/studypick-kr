@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studypick.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://studypick.kr/sitemapx.xml
